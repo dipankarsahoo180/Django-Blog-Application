@@ -132,8 +132,8 @@ STATIC_ROOT = os.path.join(BASE_DIR,'staticfiles')
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'managesite8@gmail.com'
-EMAIL_HOST_PASSWORD = 'Sitemanager.18.8'
+EMAIL_HOST_USER = 'Email@gmail.com'
+EMAIL_HOST_PASSWORD = 'Password in Text'
 EMAIL_USE_TLS = True
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
